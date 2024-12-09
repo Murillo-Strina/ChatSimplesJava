@@ -1,5 +1,4 @@
-# ChatSimplesJava
-Java Project - TwoUserChat
+# Java Project - TwoUserChat
 
 PT-BR
 
